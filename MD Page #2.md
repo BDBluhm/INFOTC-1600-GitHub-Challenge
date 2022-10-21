@@ -4,4 +4,4 @@ I have one living grandparent, a mom and a dad, and one older sister. I don't kn
 
 I also own two cats, link to thier images below
 [Thomas](https://cdn.discordapp.com/attachments/796509599662342244/1032893003167178832/Snapchat-903489547.jpg)
-[Emmie](![image](https://user-images.githubusercontent.com/116319535/197122794-d4a015a9-358d-406f-bde7-9f65bb389742.png))
+[Emmie](https://user-images.githubusercontent.com/116319535/197122794-d4a015a9-358d-406f-bde7-9f65bb389742.png)
