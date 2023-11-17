@@ -18,3 +18,5 @@ I mostly spend my free time relaxing at home or in my dorm. I like to play video
 The *Monster Hunter* franchise, fighting games like *Street Fighter* and *Guilty Gear*, *Elden Ring*, and *Deep Rock Galactic*
 **Favorite Foods:** I love Lasagna, Cheeseburgers with bacon, spicy buffalo chicken, Mac and cheese, Paneer curry and brownies as my favorite sweet treat
 
+</body>
+</html>
