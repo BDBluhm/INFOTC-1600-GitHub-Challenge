@@ -2,7 +2,7 @@
 Return to <a href= "https://github.com/BDBluhm/INFOTC-1000-Midterm/blob/main/README.md"> Homepage
 
 # My Hobbies
-I mostly spend my free time relaxing at home or in my dorm. I like to play video games, alone and with friends occasionally, and I like watching movies or reading. I love the outdoors too, and spend a lot of time camping. I'm a boyscout, and have been in scouting for nearly ten years now. Me and some of my friends also go on roadtrips occasionally, and camp out in new cities in other states. The last week of summer this year me and two friends drove to Minnesota and camped out near Minneapolis, and visited the city.
+I mostly spend my free time relaxing at my apartment. I like to play video games, alone and with friends, and I like watching movies or reading. I love the outdoors too, and spend a lot of time camping. I'm a boyscout, and have been in scouting for ten years now. Me and some of my friends also go on roadtrips occasionally, and camp out in new cities in other states. Last summer me and two friends drove to Minnesota and camped out near Minneapolis, and visited the city.
 
 ## My Favorite Things
 **A Few of My Favorite Movies:**
