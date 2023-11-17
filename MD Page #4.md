@@ -71,4 +71,4 @@ while(True):
     except Exception as error:
         print(f"{error}")
  ````
-This code takes a text file as input, and reads its lines. Any numbers the program finds inside will be calculated out into =="Sum", "Count", "Average", "Maximum value", "Minimum value"==, and =="Range"==. The user can then choose what they want to see out of the data gathered by the program. Its not perfect by any meaning, but this was the biggest program I've made up to this point, and I had a lot of fun making it and getting it to work. 
+This code takes a text file as input, and reads its lines. Any numbers the program finds inside will be calculated out into "Sum", "Count", "Average", "Maximum value", "Minimum value", and ==Range==. The user can then choose what they want to see out of the data gathered by the program. Its not perfect by any meaning, but this was the biggest program I've made up to this point, and I had a lot of fun making it and getting it to work. 
