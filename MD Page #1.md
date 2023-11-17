@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="mystyle.css">
 </head>
 <body>
-Return to <a href= "https://github.com/BDBluhm/INFOTC-1000-Final/blob/main/README.md"> Homepage
+Return to <a href= "https://github.com/BDBluhm/INFOTC-1000-Midterm/blob/main/README.md"> Homepage
 
 <h1>My Hobbies</h1>
 <p>
