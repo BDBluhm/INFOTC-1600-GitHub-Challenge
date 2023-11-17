@@ -2,7 +2,7 @@ Return to <a href= "https://github.com/BDBluhm/INFOTC-1000-Midterm/blob/main/REA
 # Previous Work
 I have been stuying infotech for about 4 years now, having started at NCC in the Information Technology course in my junior year of highschool. In that course we learned about both computer hardware and software, as well as studying cyber security the second year of the course. I earned my PCPro Certification in 2021, which tested basic operation and repair of computer hardware components, and proper software usage. During my senior year I was hired as an intern in the data analytics department of Cerner, where I helped to sort problematic software errors and get them resolved. 
 
-==In college I've been studying programming languages in my intofech classes. I worked in Python last year, and one python project I'm particularly proud of is this one;==
+In college I've been studying programming languages in my intofech classes. I worked in Python last year, and one python project I'm particularly proud of is this one;
 ````
 while(True):
     try:
