@@ -1,4 +1,4 @@
-<!DOCTYPE MD>
+<!DOCTYPE Markdown>
 <html>
 <head>
 <link rel="stylesheet" href="mystyle.css">
