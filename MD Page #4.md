@@ -72,7 +72,3 @@ while(True):
         print(f"{error}")
  ````
  This code takes a text file as input, and reads its lines. Any numbers the program finds inside will be calculated out into "Sum", "Count", "Average", "Maximum value", "Minimum value", and "Range". The user can then choose what they want to see out of the data gathered by the program. Its not perfect by any meaning, but this was the biggest program I've made up to this point, and I had a lot of fun making it and getting it to work. 
- 
- Another thing I'd like to mention is this HTML webpage my friends and I have started working on over the summer. Its a very garish joke website made with the idea of me being some psychotic fugitive gone missing, designed in the style of old, poorly made pages created by children in the early days of the internet. We're having a lot of fun with it so far, but its not nearly done
- 
- [no1mostwantedbrian](https://www.no1mostwantedbrian.site/)
