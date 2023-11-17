@@ -1,4 +1,4 @@
-Return to <a href= "https://github.com/BDBluhm/INFOTC-1000-Midterm/blob/main/README.md"> Homepage
+Return to <a href= "https://github.com/BDBluhm/INFOTC-1600-GitHub-Challenge/blob/main/README.md"> Homepage
 # Future Plans
 I am currently pursuing my bachelor's in Information Technology at MU, I believe I will continue like this until graduation. After that I'm thinking I'll go back home to Smithville to live with my dad.
 
