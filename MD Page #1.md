@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="mystyle.css">
-Return to <a href= "https://github.com/BDBluhm/INFOTC-1000-Midterm/blob/main/README.md"> Homepage
+Return to <a href= "https://github.com/BDBluhm/INFOTC-1600-GitHub-Challenge/blob/main/README.md"> Homepage
 
 # My Hobbies
 I mostly spend my free time relaxing at my apartment. I like to play video games, alone and with friends, and I like watching movies or reading. I love the outdoors too, and spend a lot of time camping. I'm a boyscout, and have been in scouting for ten years now. Me and some of my friends also go on roadtrips occasionally, and camp out in new cities in other states. Last summer me and two friends drove to Minnesota and camped out near Minneapolis, and visited the city.
