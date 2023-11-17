@@ -1,5 +1,5 @@
 # A Personal Site on Brian Bluhm
-INFOTC 1000 Midterm
+INFOTC 1600 Challenge
 ## Homepage & Overview
 My name is Brian Bluhm. I am a 21 year old junior at University of Columbia Missouri, and this page is for my INFOTC 1600 class, week 13 GitHub challenge                          
 This is the homepage for my site, click the links below to travel to pages containing more information about me
